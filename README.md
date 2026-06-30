@@ -88,7 +88,7 @@ It enables business users and decision-makers to monitor key performance indicat
 
 ## 📷 Dashboard Preview
 
-![Zepto Dashboard](Dashboard.png)
+![Zepto Dashboard](Dashboards.png)
 
 > **Note:** Save your dashboard screenshot as **Dashboard.png** in the root folder of this repository.
 
